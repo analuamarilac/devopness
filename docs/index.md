@@ -1,24 +1,17 @@
----
-title: Welcome to Devopness Documentation
-intro: Devopness aims to drastically change the way software developers manage applications and cloud infrastructure in a secure and performant fashion. By streamlining essential DevOps practices, we're making first class software deployment and cloud infrastructure management tools accessible and affordable to every developer in the world.
-links:
-    overview:
-    quickstart:
-    previous:
-    next: /docs/projects/add-project
-    guides:
-    related:
-    featured:
----
+## Description of changes
 
-## Getting Started
+Describe the product functionality with a structure that identifies a user pain point, presents a solution, explains how to use it, and shows its positive impact on the user’s daily life. 
 
-To get started with Devopness, follow the guide {% mentionPost "/docs/projects/add-project" %}
+Example:
+- Welcome to Devopness Documentation
 
-## Get Help
+At Devopness, we’re transforming the way developers manage cloud applications and infrastructure. By simplifying core DevOps practices, we make secure, high-performance software deployment and cloud management tools accessible to developers around the world. Whether you're a small team or an individual, our platform empowers you to deploy faster and more efficiently, without compromising on security or performance. Join us and experience the future of DevOps, made simple and available to all.
 
-If you run into an issue, contact our [Community Support](https://github.com/devopness/devopness/discussions)
+Ready to get started? Explore our documentations and find helpful articles to guide you through every feature of our platform. Whether you’re a beginner or looking for advanced tips, everything you need is right here.
 
-## Report a Vulnerability
+## Quality Assurance
 
-If you found a vulnerability in our products, follow the guide {% mentionPost "/docs/security/reporting-a-security-vulnerability" %}
+Once the changes in this PR are merged and deployed, success criteria is:
+1. Users quickly understand the product’s purpose and see how it simplifies DevOps tasks, while also recognizing that the documentation provides initial support.
+2. Users feel confident to start using the product by accessing the tutorial and exploring articles, leading to greater adoption and ongoing use of the platform.
+3. With clear guidance, users are able to resolve common questions and locate information independently without extra support.
